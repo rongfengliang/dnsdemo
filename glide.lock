@@ -1,0 +1,6 @@
+hash: be10468fa33f7482518d00776213b487548ed15042b5c8e97a196db5ba47d53b
+updated: 2018-02-08T09:33:12.682853+08:00
+imports:
+- name: github.com/docker/dnsserver
+  version: 5d11eac172440e52d5f18e5a1dc5e57f136ee06b
+testImports: []

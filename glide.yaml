@@ -1,0 +1,3 @@
+package: github.com/rongfengliang/dnsdemo
+import:
+- package: github.com/docker/dnsserver
